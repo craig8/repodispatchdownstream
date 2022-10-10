@@ -6,7 +6,7 @@ on:
 
 env:
     REPO: volttron-core
-    OWNER: VOLTTRON
+    OWNER: craig8
     ZIP_ARTIFACT: artifact.zip
     EVENT_TYPE: listener-downstream-testing-response
 
